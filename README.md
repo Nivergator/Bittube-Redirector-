@@ -1,13 +1,6 @@
 # Bittube-Redirector-
 
-Watch your YouTube content on BitTube and earn money for it!
-BitTube is a revolutionary video platform in which publishers can make money with their content, without ads.
-
-With this plugin you can browse your regular content on youtube and watch it on bittube to earn coins!
-
-So you can earn money with bittube, just by being a viewer!
-
-Just create an account on bit.tube and use this browser plugin to watch your youtube content on there.
+Just create an account on bit.tube and use this browser plugin to watch your youtube content on there and earn money!
 
 Feel free to donate some Tube to: bxdn6y9f55XCvnC8E6qdGgHnPpgKhMHbkRPU5eQ4k6XCPvBbzUcdKfoN7H91Axm1RdDetQj3fWHaqavWzfHpYGeJ17n7N9tAe
 
