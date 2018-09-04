@@ -4,6 +4,6 @@ Just create an account on bit.tube and use this browser plugin to watch your you
 
 Feel free to donate some Tube to: bxdn6y9f55XCvnC8E6qdGgHnPpgKhMHbkRPU5eQ4k6XCPvBbzUcdKfoN7H91Axm1RdDetQj3fWHaqavWzfHpYGeJ17n7N9tAe
 
-
+You can also download this version from the Chrome Webstore at https://chrome.google.com/webstore/detail/bittube-redirector/ghhknilhmkmnngjaegphaenianipkdho and feel free to leave a review :)
 
 To use this version you'll need to create a Youtube API-Key at https://console.developers.google.com/projectselector/apis/api/youtube.googleapis.com/overview and paste it in the popup.js file in line 67 where it says "Create an Youtube API Key and paste it here"
