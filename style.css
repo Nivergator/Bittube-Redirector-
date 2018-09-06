@@ -60,17 +60,21 @@
 
 
     .logo {
+		font-size: 25px;
       padding: 16px;
     }
 
     .logo-icon {
+		width: 27px;
+		padding-bottom: 1px;
       vertical-align: text-bottom;
       margin-right: 12px;
     }
 
     .version {
+	
       color: #444;
-      font-size: 18px;
+      font-size: 10px;
     }
 
     .flex-container {
@@ -90,6 +94,7 @@
     }
 
     .flex .fa {
-      font-size: 40px;
+		padding-left: 25%;
+      font-size: 30px;
       color: #86af49;
     }

@@ -3,7 +3,7 @@
 
   "name": "Bittube Redirector",
   "description": "Watch your YouTube content on BitTube and earn money for it!",
-  "version": "1.0.22",
+  "version": "1.0.24",
   "icons": { "128": "icon_128.png" },
   "page_action": {
     "default_icon": "icon.png",
