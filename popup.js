@@ -71,7 +71,7 @@ function api () {
 				"https://www.googleapis.com/youtube/v3/videos", {
 					part: 'snippet',
 					id: VideoID,
-					key: 'AIzaSyA5OCWYGS1xirf9gH7ptC-1gtXRMHD2Oq8'},
+					key: 'Place your api key here!'},
 					function(data) {
 						$.each(data.items, function(i, item){
 							console.log(item);
