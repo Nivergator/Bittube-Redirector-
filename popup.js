@@ -61,7 +61,7 @@ function popup3() {
    });
 }
 
-// Makes an api call and opens bittube link in new tab
+// Makes an api call if all earlier trys failed and opens bittube link in new tab
 function api () {
 	chrome.tabs.query({currentWindow: true, active: true}, function (tabs){
 	var url = tabs[0].url;
